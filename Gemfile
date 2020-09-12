@@ -7,6 +7,7 @@ ruby '2.6.6'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.3'
 # Use mysql as the database for Active Record
 gem 'mysql2', '>= 0.4.4'
+gem 'ridgepole', '>= 0.8.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
